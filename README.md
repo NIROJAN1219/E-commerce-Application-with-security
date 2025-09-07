@@ -76,7 +76,7 @@ spring.datasource.username=postgres
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 
-auth0.audience=https://your-api-identifier
+auth0.audience=https://dev-tr0s621i58jqwl3a.us.auth0.com/api/v2/
 auth0.issuer=https://your-tenant.auth0.com/
 
 
@@ -103,9 +103,9 @@ npm install
 Configure Auth0 in .env:
 
 Always show details
-REACT_APP_AUTH0_DOMAIN=your-tenant.auth0.com
-REACT_APP_AUTH0_CLIENT_ID=your_client_id
-REACT_APP_AUTH0_AUDIENCE=https://your-api-identifier
+REACT_APP_AUTH0_DOMAIN=dev-tr0s621i58jqwl3a.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID=DSbIRd4MOKoZ3AMFZMcjQjO8D2j360mt
+REACT_APP_AUTH0_AUDIENCE=https://dev-tr0s621i58jqwl3a.us.auth0.com/api/v2/
 
 
 Start the app:
