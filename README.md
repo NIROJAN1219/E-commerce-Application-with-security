@@ -47,32 +47,6 @@ A full-stack web application built with **React**, **Spring Boot**, and **Auth0*
 
 ---
 
-## 📂 Project Structure  
-secure-product-purchase/
-│
-├── backend/
-│ ├── src/main/java/com/example/shopBackend/
-│ │ ├── controller/ # REST controllers
-│ │ ├── model/ # Entity classes
-│ │ ├── repository/ # JPA repositories
-│ │ ├── security/ # SecurityConfig, JWT validation
-│ │ └── service/ # Business logic
-│ └── resources/
-│ └── application.properties
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/ # React components
-│ │ ├── pages/ # Pages (Login, Orders, Purchase)
-│ │ ├── auth/ # Auth0 provider setup
-│ │ └── App.js
-│ └── package.json
-│
-└── README.md
-
-Always show details
-
----
 
 
 ## ⚙️ Setup Instructions  
